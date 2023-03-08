@@ -15,7 +15,7 @@ GitHub: Alise-Sakuro
 
 My goal is to become a highly qualified specialist in the field of front-end  web development. Thanks to my creative background, I am able to think outside the box and be flexible in solving problems. Disciplined and responsible. I enjoy learning topics that are new to me, especially if they challenge me with their level of complexity.
 
-## Skills:
+## Skills
 
 HTML5, CSS3
 
@@ -27,7 +27,7 @@ VS Code
 
 Adobe Photoshop, Illustrator
 
-## Languages:
+## Languages
 
 Russian - native speaker
 
