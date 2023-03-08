@@ -5,7 +5,7 @@ Junior Frontend Developer
 
 Location: Bobruisk, Belarus
 
-Phone: +375 33 995-12-64
+Phone: +375 33 995-12-64 (BY)
 
 Email: alesya.kom@mail.ru
 
